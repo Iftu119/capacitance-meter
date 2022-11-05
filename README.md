@@ -1,4 +1,4 @@
-# Design and Implementation of Digital Capacitance Meter 📉
+# Design and Implementation of Digital Capacitance Meter
 “Digital Capacitance Meter” is a device that can determine the capacitance of an unknown capacitor to a certain extent of precision. Here, capacitance is a
 term that describes the inherent property of a capacitor which is the electric charge stored with respect to a potential difference where two parallel plate conductors are used maintaining dielectric between them. Usually we get the measurement of capacitance via RLC meter which can determine the values of capacitance(C) along with the R and L which are resistance and inductance respectively.
 
@@ -15,6 +15,6 @@ We uploaded this [Code](https://github.com/Iftu119/capacitance-meter/blob/main/C
 ### ⭐ Credit :
 1. Ajmal Ahmed Shakib
 2. Mohammad Iftekher (Iftu) Ebne Jalal 
-3. Shoaibur Rahman
+3. Md Shoaibur Rahman
 
-*For anyqueries, please add an issue to this respository.*
+*For any queries, please add an issue to this respository.*
